@@ -2,6 +2,8 @@
 
 👨‍💻 I'm a Front end Developer ♥️
 
+💪 I consider myself a person in continuous learning.
+
 🌎 I am looking for a developer job anywhere in the world.
 
 🌱 I’m currently learning:
