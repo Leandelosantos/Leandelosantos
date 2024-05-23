@@ -1,6 +1,6 @@
 <h2> Hi!, I'm Leandro De Los Santos <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="50"></h2>
 
-👨‍💻 I'm a Front end Developer ♥️
+👨‍💻 I'm a Full Stack Developer ♥️
 
 💪 I consider myself a person in continuous learning.
 
@@ -9,7 +9,7 @@
 🌱 I’m currently learning:
 - ReactJs <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20">
 - Mongo DB <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="80">
-- Express <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+- Java <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=50">
 
  👯 I’m looking to collaborate for a ReactJs project.
 
@@ -21,7 +21,7 @@
 const Lean = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS],
-  tools: [ReactJs, NodeJs, Sass, Bootstrap, Vite, Jest, Git, GitHub]
+  tools: [ReactJs, NodeJs, ExpressJs, Sass, Bootstrap, Sequelize, Styled Components, Vite, Jest, Git, GitHub]
 }
 ```
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
