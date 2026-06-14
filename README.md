@@ -11,8 +11,8 @@ Construyo aplicaciones web escalables con el ecosistema MERN y bases de datos re
 
 Respaldado por 10 años en el sector bancario que aportan visión analítica, gestión de riesgos y comprensión real del negocio. Integro herramientas de IA (Claude Code CLI, MCP, Gemini API) en mis ciclos de desarrollo para acelerar entregas sin sacrificar calidad.
 
-- 🔭 Trabajando en **[Huevos Point](https://github.com/Leandelosantos)** — SaaS POS/ERP multi-tenant para PyMEs
-- 🛠 Stack principal: **Node.js · React.js · Vue.js · PostgreSQL · Express**
+- 🔭 Trabajando en **[Seu](https://github.com/Leandelosantos)** — SaaS POS/ERP multi-tenant para PyMEs
+- 🛠 Stack principal: **Node.js · React.js · GSAP - Three.js · PostgreSQL · Express**
 - 🤖 AI-assisted dev: **Claude Code CLI · MCP · Gemini API · Prompt Engineering**
 - 📐 PM: **Scrum · Kanban · SRS · Roadmaps · Stakeholder Management**
 - 🌎 Disponible para proyectos remotos y presenciales en CABA
@@ -66,7 +66,7 @@ Respaldado por 10 años en el sector bancario que aportan visión analítica, ge
 
 ## Proyectos destacados
 
-### 🛒 Huevos Point — SaaS POS/ERP Multi-tenant
+### 🛒 Seu — SaaS POS/ERP Multi-tenant
 > Sistema de punto de venta y gestión para PyMEs con múltiples sucursales. En producción activa.
 
 **Stack:** React 19 · Node.js · Express · PostgreSQL/Neon · Sequelize · JWT · Vercel · Cloudflare  
