@@ -1,7 +1,7 @@
 # Leandro De Los Santos Aboy
 
 **Full Stack Developer · Technical Project Manager**  
-CABA, Buenos Aires · [leandrodelosantos@gmail.com](mailto:leandrodelosantos@gmail.com) · [Portfolio](https://portfolioleandro-nu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leandrodelosantos)
+CABA, Buenos Aires · [leandrodelosantos@gmail.com](mailto:leandrodelosantos@gmail.com) · [Portfolio](https://portfolioleandro-nu.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leandrodelossantosaboy)
 
 ---
 
